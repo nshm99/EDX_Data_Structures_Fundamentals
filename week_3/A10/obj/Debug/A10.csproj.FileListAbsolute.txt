@@ -1,0 +1,11 @@
+C:\git\96521164\DS97981\A10\A10\obj\Debug\A10.csprojAssemblyReference.cache
+C:\git\96521164\DS97981\A10\A10\obj\Debug\A10.csproj.CoreCompileInputs.cache
+C:\git\96521164\DS97981\A10\A10\bin\Debug\A10.exe.config
+C:\git\96521164\DS97981\A10\A10\bin\Debug\A10.exe
+C:\git\96521164\DS97981\A10\A10\bin\Debug\A10.pdb
+C:\git\96521164\DS97981\A10\A10\bin\Debug\TestCommon.dll
+C:\git\96521164\DS97981\A10\A10\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\git\96521164\DS97981\A10\A10\bin\Debug\TestCommon.pdb
+C:\git\96521164\DS97981\A10\A10\obj\Debug\A10.csproj.CopyComplete
+C:\git\96521164\DS97981\A10\A10\obj\Debug\A10.exe
+C:\git\96521164\DS97981\A10\A10\obj\Debug\A10.pdb
